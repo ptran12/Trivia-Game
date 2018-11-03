@@ -34,21 +34,33 @@ var questions =[{
     answers: ["Saturn", "Mercury", "Jupiter", "Venus"],
     correctAnswer:"Jupiter"
 }, {
-    question:"What NBA team won the most titles in the 90s?",
-    answers: ["New York Knicks", "Portland Trailblazers", "San Antonio Spurs", "Chicago Bulls"],
-    correctAnswer: "Chicago Bulls"
+    question:"Which sea creature has three hearts",
+    answers: ["Fish", "Shark", "Octopus", "Whale"],
+    correctAnswer: "Octopus"
 }, {
-    question:"What NBA team won the most titles in the 90s?",
-    answers: ["New York Knicks", "Portland Trailblazers", "San Antonio Spurs", "Chicago Bulls"],
-    correctAnswer: "Chicago Bulls"
+    question:"What is one quarter of 1,000",
+    answers: ["200", "150", "350", "250"],
+    correctAnswer: "250"
 }, {
-    question:"What NBA team won the most titles in the 90s?",
-    answers: ["New York Knicks", "Portland Trailblazers", "San Antonio Spurs", "Chicago Bulls"],
-    correctAnswer: "Chicago Bulls"
+    question:"Which planet shares its name with a dog?",
+    answers: ["Earth", "Venus", "Pluto", "Mars"],
+    correctAnswer: "Pluto"
 }, {
-    question:"What NBA team won the most titles in the 90s?",
-    answers: ["New York Knicks", "Portland Trailblazers", "San Antonio Spurs", "Chicago Bulls"],
-    correctAnswer: "Chicago Bulls"
+    question:"When did the French Revolution End?",
+    answers: ["1780", "1799", "1789", "1798"],
+    correctAnswer: "1799"
+}, {
+    question:"What color is Absynth?",
+    answers: ["Red", "Green", "Blue", "Purple"],
+    correctAnswer: "Green"
+}, {
+    question:"In football, where do the Bronos come from?",
+    answers: ["Houston", "Denver", "New York", "Cincinnati "],
+    correctAnswer: "Denver"
+}, {
+    question:"Topaz is the birthstone for which month?",
+    answers: ["July", "November", "May", "December"],
+    correctAnswer: "November"
 }];
 
 
