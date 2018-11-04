@@ -22,15 +22,15 @@ $(document).on('click', '#end', function(){
 
 //varbles
 var questions =[{
-    question: "What is the largest planet in the solar system",
+    question: "What is the largest planet in the solar system?",
     answers: ["Saturn", "Mercury", "Jupiter", "Venus"],
     rightAnswers:"Jupiter"
 }, {
-    question:"Which sea creature has three hearts",
+    question:"Which sea creature has three hearts?",
     answers: ["Fish", "Shark", "Octopus", "Whale"],
     rightAnswers: "Octopus"
 }, {
-    question:"What is one quarter of 1,000",
+    question:"What is one quarter of 1,000?",
     answers: ["200", "150", "350", "250"],
     rightAnswers: "250"
 }, {
@@ -46,7 +46,7 @@ var questions =[{
     answers: ["Red", "Green", "Blue", "Purple"],
     rightAnswers: "Green"
 }, {
-    question:"In football, where do the Bronos come from?",
+    question:"In football, where do the Broncos come from?",
     answers: ["Houston", "Denver", "New York", "Cincinnati "],
     rightAnswers: "Denver"
 }, {
@@ -97,7 +97,7 @@ var game = {
             }
         }
 
-        $("#btnwrapper").append('<br><button id="end">DONE</button>') 
+        $("#btnwrapper").append('<br><button id="end" style="margin-top: 20px">DONE</button>') 
     },
 
     done: function () {
